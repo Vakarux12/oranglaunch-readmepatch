@@ -8,17 +8,17 @@
 Install yay package manager and run command and it will install automatically: <br>
 ```yay -S oranglauncher-bin```
 
+> [!NOTE]
+> On windows it will be later because the python version is buggy and uncomfortable to use!
+> A huge rewrite awaits while linux version will be updated!
+
+
 # About This Minecraft Launcher
 This launcher is designed to deliver a modular, modern, and highly customizable Minecraft experience — all powered by a built‑in Python backend that keeps everything lightweight, fast, and fully scriptable.
 
 # Accounts 
 ## Microsoft (mojang)
 This is achieved by using localhost and embeding page to qt6 env and if that fails then use browser localhost to connect. It's safe for you and me to use this, bc the launcher gets token from servers of Microsoft and not me! Token helps to indentify if you are legit owner of your account.
-
-> [!NOTE]
-> This is slow because it's embed into old Microsoft webwiew frame and I can't fix it. 
-> So if you want to fix it then dm me on dc or pr on rep.
-
 
 ## Offline (cracked)
 So this simple enter username and boom you have that account, and you can use it only on cracked servers and singleplayer but you are without skin bc you cracked it! I'm not resposible for legal damage nor im not mojang or xbox studios.
