@@ -5,7 +5,7 @@
 </p>
 
 # Installation (Arch Linux)
-Install with <a href=https://github.com/Jguer/yay">**yay**</a>:
+Install with [https://github.com/Jguer/yay]**yay**:
 ```yay -S oranglauncher-bin```
 
 > [!NOTE]
