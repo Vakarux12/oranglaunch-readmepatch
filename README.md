@@ -3,11 +3,10 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/452fc8c2-7aea-4cf4-877f-da04ce869d63" alt="orange">
 </p>
----
+
 # Installation (Arch Linux)
 Install with **yay**:
-```bash
-yay -S oranglauncher-bin```
+```yay -S oranglauncher-bin```
 
 > [!NOTE]
 > Currently, there is no available version for Windows because of the bad python performance on it.
